@@ -12,3 +12,4 @@ Projects created using open data.
 
 ## Berkshire Hathaway Holdings
 ![image](https://user-images.githubusercontent.com/102907354/215076641-82ce2fd4-5f91-45bb-b362-4dfad92b205e.png)
+![image](https://user-images.githubusercontent.com/102907354/215076940-b1b08fba-59c7-4d7c-b08e-99dd9aa9665e.png)
