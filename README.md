@@ -9,3 +9,6 @@ Projects created using open data.
 
 ## Maven Market
 ![image](https://user-images.githubusercontent.com/102907354/214345828-6d32cf85-e871-4af8-a46e-e2fd1e07bd65.png)
+
+## Berkshire Hathaway Holdings
+![image](https://user-images.githubusercontent.com/102907354/215076641-82ce2fd4-5f91-45bb-b362-4dfad92b205e.png)
